@@ -21,6 +21,4 @@
 
 ##
   
-<div>
 ![Snake animation](https://github.com/math-nazario/math-nazario/blob/output/github-contribution-grid-snake.svg)
-</div>
